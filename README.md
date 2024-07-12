@@ -7,20 +7,38 @@
 ![image](https://github.com/user-attachments/assets/17ffb474-b768-4d64-9172-b442b3d632da)
 
 3. **Variables**
+   
+![image](https://github.com/user-attachments/assets/1c07646c-66ca-49dd-8e7f-99c0fab7b401)
 
-4. **Maps**
+5. **Maps**
+   
+![image](https://github.com/user-attachments/assets/c5017a62-03ba-4a69-a348-a00d5e0fe368)
 
-5. **List, Maps and Iterables**
+7. **List, Maps and Iterables**
+
+![image](https://github.com/user-attachments/assets/74aa5f9c-d779-425e-ac40-7d2b42588259)
+
+![image](https://github.com/user-attachments/assets/5f700169-b9a7-4346-a18f-f6f5df478e9d)
 
 ## Ejercicios del 05 al 08
 
 5. **Functions**
 
+![image](https://github.com/user-attachments/assets/e1f077ea-c8db-482e-8d7e-2d546054425e)
+
 6. **Classes**
+
+![image](https://github.com/user-attachments/assets/69b93653-61e7-446c-a8b3-1a1849343ea5)
 
 7. **Constructors and Names**
 
+![image](https://github.com/user-attachments/assets/486ed3d2-50ac-436e-b1b6-bfa4efae125c)
+
 8. **Get and Set**
+
+![image](https://github.com/user-attachments/assets/7a25391b-b4de-473d-80a2-9870013c3985)
+
+![image](https://github.com/user-attachments/assets/cc2e9131-4dc0-4d1d-a758-0d9be404f0f8)
 
 
 ## Ejercicios del 09 al 15
