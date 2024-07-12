@@ -90,3 +90,5 @@ Caso éxito:
 ![image](https://github.com/user-attachments/assets/7d4624f0-7d0c-429d-b2ff-94bc634f3574)
 
 ## Arquitectura limpia
+
+![image](https://github.com/user-attachments/assets/e56814c8-bbbc-4ded-a754-3403248d258a)
