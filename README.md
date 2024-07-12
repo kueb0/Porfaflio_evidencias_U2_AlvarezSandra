@@ -44,5 +44,6 @@
 
 
 ## Aplicación YesOrNo
+![image](https://github.com/user-attachments/assets/7d4624f0-7d0c-429d-b2ff-94bc634f3574)
 
 ## Arquitectura limpia
