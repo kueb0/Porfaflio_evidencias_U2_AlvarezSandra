@@ -3,6 +3,7 @@
 ## Ejercicios del 01 al 04
 
 1. **Hello World** 
+![image](https://github.com/user-attachments/assets/17ffb474-b768-4d64-9172-b442b3d632da)
 
 2. **Variables**
 
