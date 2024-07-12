@@ -40,6 +40,8 @@
 
 
 ## Aplicación HelloWorld
+![image](https://github.com/user-attachments/assets/e3301d44-de46-4b1b-a7e7-6274fe17989f)
+
 
 ## Aplicación YesOrNo
 
